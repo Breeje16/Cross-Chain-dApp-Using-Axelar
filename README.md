@@ -1,4 +1,15 @@
-# Axelar cross-chain dApp examples
+# Contract Called Address:
+
+https://testnet.axelarscan.io/gmp/0x0882c8d1656e244670e4b7f144b221791a6cfca1ca24c84fd5f9acc62a32c592:48
+
+## What I did:
+* Cloned the main repository of alexar-local-gmp-examples
+* Made necessary Changes to Contract Code.
+* Then, on Command Line, ran: `node scripts/deploy examples/call-contract-with-token testnet` to deploy the contracts on both the chains.
+* Got aUSDC on Polygon chain through Faucet Bot on Axelar Network Discord Channel.
+* Then ran command to Transfer the Token to Destination.
+* The aUSDC was transfered to the destination successfully.
+
 
 ## Introduction
 
